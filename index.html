@@ -8,7 +8,18 @@
     <link rel="manifest" href="/site.webmanifest" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>NocFree Link</title>
-    <script type="module" crossorigin src="/assets/index-Ulg95DpH.js"></script>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-YSF1X2TBR6"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      
+      var host = location.host;
+      var isPrd = host === 'link.nocfree.com';
+      gtag('config', isPrd ? 'G-YSF1X2TBR6' : 'G-K4LGPR6Q4H');
+    </script>
+    <script type="module" crossorigin src="/assets/index-DIspjGNK.js"></script>
     <link rel="stylesheet" crossorigin href="/assets/index-CD4hmuG4.css">
   </head>
   <body>
