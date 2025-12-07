@@ -3,7 +3,7 @@
 此目录包含由仓库根目录构建生成的生产静态文件（HTML、CSS、JS、assets）。`nocfree-site` 被视为一个独立可部署的静态站点项目，直接部署即可对外提供服务。
 
 ## 说明
-- **位置**：`/nocfree-site`
+- **位置**：`dev-link.nocfree.com`
 - **内容**：Vite 构建后的静态文件，已经过打包和压缩，适合放到静态主机（如 Vercel、Netlify、GitHub Pages、S3 + CloudFront）或通过静态文件服务器直接托管。
 
 ## 如何部署（示例）
