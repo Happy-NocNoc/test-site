@@ -1,6 +1,5 @@
 {
   "name": "NocFree &",
-  "layoutName": "jp",
   "vendor": "NocFree",
   "product": "NocFree & JP",
   "image": "keyboards/and-jp.png",
@@ -603,7 +602,7 @@
         {
           "id": "l",
           "labels": ["L", null, null, null, null, null, null, null],
-          "x": 393,
+          "x": 392,
           "y": 115,
           "width": 36.5,
           "height": 36.5,
@@ -614,7 +613,7 @@
         {
           "id": "+",
           "labels": ["+", null, null, null, null, null, null, null],
-          "x": 430.5,
+          "x": 427.5,
           "y": 115,
           "width": 36.5,
           "height": 36.5,
@@ -625,7 +624,7 @@
         {
           "id": "*",
           "labels": ["*", null, null, null, null, null, null, null],
-          "x": 467.5,
+          "x": 463.5,
           "y": 115,
           "width": 36.5,
           "height": 36.5,
@@ -636,7 +635,7 @@
         {
           "id": "}",
           "labels": ["}", null, null, null, null, null, null, null],
-          "x": 504.5,
+          "x": 500.5,
           "y": 115,
           "width": 36.5,
           "height": 36.5,
@@ -647,9 +646,9 @@
         {
           "id": "enter",
           "labels": ["Enter", null, null, null, null, null, null, null],
-          "x": 541.5,
+          "x": 536.5,
           "y": 78.5,
-          "width": 44.5,
+          "width": 47.5,
           "height": 73,
           "row": 3,
           "col": 13,
