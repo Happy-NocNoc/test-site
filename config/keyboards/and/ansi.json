@@ -1,5 +1,6 @@
 {
   "name": "NocFree &",
+  "layoutName": "ansi",
   "vendor": "NocFree",
   "product": "NocFree & ANSI",
   "image": "keyboards/and-ansi.png",
@@ -351,7 +352,7 @@
           "labels": ["V", null, null, null, null, null, null, null],
           "x": 191,
           "y": 146,
-          "width": 36.5,
+          "width": 38.5,
           "height": 36.5,
           "row": 4,
           "col": 4,
@@ -360,7 +361,7 @@
         {
           "id": "b",
           "labels": ["B", null, null, null, null, null, null, null],
-          "x": 228,
+          "x": 228.5,
           "y": 146,
           "width": 36.5,
           "height": 36.5,
@@ -395,7 +396,7 @@
           "labels": ["LAlt", null, null, null, null, null, null, null],
           "x": 90.5,
           "y": 182.5,
-          "width": 45,
+          "width": 45.5,
           "height": 36.5,
           "row": 5,
           "col": 2,
@@ -616,7 +617,7 @@
           "x": 268.5,
           "y": 73,
           "width": 36.5,
-          "height": 36.5,
+          "height": 37.5,
           "row": 2,
           "col": 6,
           "type": "key"
@@ -627,7 +628,7 @@
           "x": 305,
           "y": 73,
           "width": 36.5,
-          "height": 36.5,
+          "height": 37.5,
           "row": 2,
           "col": 7,
           "type": "key"
@@ -638,7 +639,7 @@
           "x": 341.5,
           "y": 73,
           "width": 36.5,
-          "height": 36.5,
+          "height": 37.5,
           "row": 2,
           "col": 8,
           "type": "key"
@@ -649,7 +650,7 @@
           "x": 378,
           "y": 73,
           "width": 36.5,
-          "height": 36.5,
+          "height": 37.5,
           "row": 2,
           "col": 9,
           "type": "key"
@@ -660,7 +661,7 @@
           "x": 414.5,
           "y": 73,
           "width": 36.5,
-          "height": 36.5,
+          "height": 37.5,
           "row": 2,
           "col": 10,
           "type": "key"
@@ -671,7 +672,7 @@
           "x": 451,
           "y": 73,
           "width": 36.5,
-          "height": 36.5,
+          "height": 37.5,
           "row": 2,
           "col": 11,
           "type": "key"
@@ -682,7 +683,7 @@
           "x": 487.5,
           "y": 73,
           "width": 36.5,
-          "height": 36.5,
+          "height": 37.5,
           "row": 2,
           "col": 12,
           "type": "key"
@@ -693,7 +694,7 @@
           "x": 524,
           "y": 73,
           "width": 56,
-          "height": 36.5,
+          "height": 37.5,
           "row": 2,
           "col": 13,
           "type": "key"
@@ -912,7 +913,7 @@
           "labels": ["Left", null, null, null, null, null, null, null],
           "x": 504.5,
           "y": 183.5,
-          "width": 36.5,
+          "width": 38.5,
           "height": 36.5,
           "row": 5,
           "col": 9,
@@ -955,7 +956,7 @@
           "x": 663,
           "y": 0,
           "width": 36.5,
-          "height": 36.5,
+          "height": 37.5,
           "row": 0,
           "col": 15,
           "type": "key"
@@ -966,7 +967,7 @@
           "x": 699.5,
           "y": 0,
           "width": 36.5,
-          "height": 36.5,
+          "height": 37.5,
           "row": 0,
           "col": 16,
           "type": "key"
@@ -977,7 +978,7 @@
           "x": 735.5,
           "y": 0,
           "width": 36.5,
-          "height": 36.5,
+          "height": 37.5,
           "row": 0,
           "col": 17,
           "type": "key"
@@ -988,7 +989,7 @@
           "x": 772,
           "y": 0,
           "width": 36.5,
-          "height": 36.5,
+          "height": 37.5,
           "row": 0,
           "col": 18,
           "type": "key"
@@ -1076,7 +1077,7 @@
           "x": 772,
           "y": 73,
           "width": 36.5,
-          "height": 72,
+          "height": 73,
           "row": 2,
           "col": 17,
           "type": "key"
@@ -1120,7 +1121,7 @@
           "x": 663,
           "y": 146,
           "width": 36.5,
-          "height": 36.5,
+          "height": 37.5,
           "row": 4,
           "col": 14,
           "type": "key"
@@ -1131,7 +1132,7 @@
           "x": 699.5,
           "y": 146,
           "width": 36.5,
-          "height": 36.5,
+          "height": 37.5,
           "row": 4,
           "col": 15,
           "type": "key"
@@ -1142,7 +1143,7 @@
           "x": 735.5,
           "y": 146,
           "width": 36.5,
-          "height": 36.5,
+          "height": 37.5,
           "row": 4,
           "col": 16,
           "type": "key"
@@ -1150,7 +1151,7 @@
         {
           "id": "numenter",
           "labels": ["Enter", null, null, null, null, null, null, null],
-          "x": 772.5,
+          "x": 772,
           "y": 146,
           "width": 36.5,
           "height": 73,
