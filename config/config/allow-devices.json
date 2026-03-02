@@ -1,0 +1,65 @@
+{
+  "version": "1.0.0",
+  "devices": [
+    {
+      "id": "nocfree-and-test",
+      "vendor": "NocFree",
+      "product": "NocFree & ANSI",
+      "filter": {
+        "vendorId": 10374,
+        "productId": 32809
+      },
+      "keyboardConfig": "and/ansi",
+      "enabled": true,
+      "metadata": {
+        "description": "Test device configuration for development",
+        "firmwareVersion": ">= 1.0.0"
+      }
+    },
+    {
+      "id": "nocfree-and-kr-test",
+      "vendor": "NocFree",
+      "product": "NocFree & KR",
+      "filter": {
+        "vendorId": 10374,
+        "productId": 32809
+      },
+      "keyboardConfig": "and/kr",
+      "enabled": true,
+      "metadata": {
+        "description": "Test device configuration for development",
+        "firmwareVersion": ">= 1.0.0"
+      }
+    },
+    {
+      "id": "nocfree-and-uk-test",
+      "vendor": "NocFree",
+      "product": "NocFree & UK",
+      "filter": {
+        "vendorId": 10374,
+        "productId": 32809
+      },
+      "keyboardConfig": "and/uk",
+      "enabled": true,
+      "metadata": {
+        "description": "Test device configuration for development",
+        "firmwareVersion": ">= 1.0.0"
+      }
+    },
+    {
+      "id": "nocfree-and-jp-test",
+      "vendor": "NocFree",
+      "product": "NocFree & JP",
+      "filter": {
+        "vendorId": 10374,
+        "productId": 32809
+      },
+      "keyboardConfig": "and/jp",
+      "enabled": true,
+      "metadata": {
+        "description": "Test device configuration for development",
+        "firmwareVersion": ">= 1.0.0"
+      }
+    }
+  ]
+}

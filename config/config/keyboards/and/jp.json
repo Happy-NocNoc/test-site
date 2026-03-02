@@ -1,8 +1,9 @@
 {
   "name": "NocFree &",
+  "layoutName": "jp",
   "vendor": "NocFree",
-  "product": "NocFree & UK",
-  "image": "keyboards/and-uk.png",
+  "product": "NocFree & JP",
+  "image": "keyboards/and-jp.png",
   "width": 900,
   "height": 400,
   "rows": 6,
@@ -63,7 +64,7 @@
         {
           "id": "f4",
           "labels": ["F4", null, null, null, null, null, null, null],
-          "x": 126,
+          "x": 127,
           "y": 5.5,
           "width": 36.5,
           "height": 36.5,
@@ -74,7 +75,7 @@
         {
           "id": "f5",
           "labels": ["F5", null, null, null, null, null, null, null],
-          "x": 162.5,
+          "x": 164,
           "y": 5.5,
           "width": 36.5,
           "height": 36.5,
@@ -85,7 +86,7 @@
         {
           "id": "f6",
           "labels": ["F6", null, null, null, null, null, null, null],
-          "x": 199,
+          "x": 202,
           "y": 5.5,
           "width": 36.5,
           "height": 36.5,
@@ -96,7 +97,7 @@
         {
           "id": "f7",
           "labels": ["F7", null, null, null, null, null, null, null],
-          "x": 300,
+          "x": 290,
           "y": 5.5,
           "width": 36.5,
           "height": 36.5,
@@ -107,7 +108,7 @@
         {
           "id": "f8",
           "labels": ["F8", null, null, null, null, null, null, null],
-          "x": 337,
+          "x": 327,
           "y": 5.5,
           "width": 36.5,
           "height": 36.5,
@@ -118,7 +119,7 @@
         {
           "id": "f9",
           "labels": ["F9", null, null, null, null, null, null, null],
-          "x": 375,
+          "x": 365,
           "y": 5.5,
           "width": 36.5,
           "height": 36.5,
@@ -129,7 +130,7 @@
         {
           "id": "f10",
           "labels": ["F10", null, null, null, null, null, null, null],
-          "x": 411.5,
+          "x": 401.5,
           "y": 5.5,
           "width": 36.5,
           "height": 36.5,
@@ -140,7 +141,7 @@
         {
           "id": "f11",
           "labels": ["F11", null, null, null, null, null, null, null],
-          "x": 448,
+          "x": 438,
           "y": 5.5,
           "width": 36.5,
           "height": 36.5,
@@ -151,7 +152,7 @@
         {
           "id": "f12",
           "labels": ["F12", null, null, null, null, null, null, null],
-          "x": 484.5,
+          "x": 474.5,
           "y": 5.5,
           "width": 36.5,
           "height": 36.5,
@@ -162,7 +163,7 @@
         {
           "id": "prtsc",
           "labels": ["PrtSc", null, null, null, null, null, null, null],
-          "x": 521,
+          "x": 511,
           "y": 5.5,
           "width": 38.5,
           "height": 36.5,
@@ -173,7 +174,7 @@
         {
           "id": "home",
           "labels": ["Home", null, null, null, null, null, null, null],
-          "x": 559.5,
+          "x": 549.5,
           "y": 5.5,
           "width": 36.5,
           "height": 36.5,
@@ -228,7 +229,7 @@
         {
           "id": "4",
           "labels": ["4", null, null, null, null, null, null, null],
-          "x": 126,
+          "x": 127,
           "y": 42,
           "width": 36.5,
           "height": 36.5,
@@ -239,7 +240,7 @@
         {
           "id": "5",
           "labels": ["5", null, null, null, null, null, null, null],
-          "x": 162.5,
+          "x": 164,
           "y": 42,
           "width": 36.5,
           "height": 36.5,
@@ -250,7 +251,7 @@
         {
           "id": "6",
           "labels": ["6", null, null, null, null, null, null, null],
-          "x": 199,
+          "x": 200,
           "y": 42,
           "width": 36.5,
           "height": 36.5,
@@ -261,7 +262,7 @@
         {
           "id": "7",
           "labels": ["7", null, null, null, null, null, null, null],
-          "x": 300,
+          "x": 290,
           "y": 42,
           "width": 36.5,
           "height": 36.5,
@@ -272,7 +273,7 @@
         {
           "id": "8",
           "labels": ["8", null, null, null, null, null, null, null],
-          "x": 337,
+          "x": 327,
           "y": 42,
           "width": 36.5,
           "height": 36.5,
@@ -283,7 +284,7 @@
         {
           "id": "9",
           "labels": ["9", null, null, null, null, null, null, null],
-          "x": 374,
+          "x": 365,
           "y": 42,
           "width": 36.5,
           "height": 36.5,
@@ -294,7 +295,7 @@
         {
           "id": "0",
           "labels": ["0", null, null, null, null, null, null, null],
-          "x": 411,
+          "x": 401.5,
           "y": 42,
           "width": 36.5,
           "height": 36.5,
@@ -303,9 +304,9 @@
           "type": "key"
         },
         {
-          "id": "-",
+          "id": "=",
           "labels": ["-", null, null, null, null, null, null, null],
-          "x": 448,
+          "x": 438,
           "y": 42,
           "width": 36.5,
           "height": 36.5,
@@ -314,9 +315,9 @@
           "type": "key"
         },
         {
-          "id": "+",
-          "labels": ["+", null, null, null, null, null, null, null],
-          "x": 484.5,
+          "id": "~",
+          "labels": ["^", null, null, null, null, null, null, null],
+          "x": 474.5,
           "y": 42,
           "width": 36.5,
           "height": 36.5,
@@ -325,22 +326,22 @@
           "type": "key"
         },
         {
-          "id": "backspace",
-          "labels": ["Backspace", null, null, null, null, null, null, null],
-          "x": 521,
+          "id": "|",
+          "labels": ["|", null, null, null, null, null, null, null],
+          "x": 511,
           "y": 42,
-          "width": 75,
+          "width": 36.5,
           "height": 36.5,
           "row": 1,
           "col": 13,
           "type": "key"
         },
         {
-          "id": "pageup",
-          "labels": ["Page\nUp", null, null, null, null, null, null, null],
-          "x": 596,
+          "id": "backspace",
+          "labels": ["Backspace", null, null, null, null, null, null, null],
+          "x": 549.5,
           "y": 42,
-          "width": 36.5,
+          "width": 75,
           "height": 36.5,
           "row": 1,
           "col": 14,
@@ -382,7 +383,7 @@
         {
           "id": "e",
           "labels": ["E", null, null, null, null, null, null, null],
-          "x": 106.5,
+          "x": 107,
           "y": 78.5,
           "width": 37,
           "height": 36.5,
@@ -393,7 +394,7 @@
         {
           "id": "r",
           "labels": ["R", null, null, null, null, null, null, null],
-          "x": 144,
+          "x": 145,
           "y": 78.5,
           "width": 36.5,
           "height": 36.5,
@@ -404,7 +405,7 @@
         {
           "id": "t",
           "labels": ["T", null, null, null, null, null, null, null],
-          "x": 180,
+          "x": 182,
           "y": 78.5,
           "width": 37,
           "height": 36.5,
@@ -415,7 +416,7 @@
         {
           "id": "y",
           "labels": ["Y", null, null, null, null, null, null, null],
-          "x": 282,
+          "x": 272,
           "y": 78.5,
           "width": 36.5,
           "height": 36.5,
@@ -426,7 +427,7 @@
         {
           "id": "u",
           "labels": ["U", null, null, null, null, null, null, null],
-          "x": 320,
+          "x": 309,
           "y": 78.5,
           "width": 36.5,
           "height": 36.5,
@@ -437,7 +438,7 @@
         {
           "id": "i",
           "labels": ["I", null, null, null, null, null, null, null],
-          "x": 357,
+          "x": 346,
           "y": 78.5,
           "width": 36.5,
           "height": 36.5,
@@ -448,7 +449,7 @@
         {
           "id": "o",
           "labels": ["O", null, null, null, null, null, null, null],
-          "x": 394,
+          "x": 383,
           "y": 78.5,
           "width": 36.5,
           "height": 36.5,
@@ -459,7 +460,7 @@
         {
           "id": "p",
           "labels": ["P", null, null, null, null, null, null, null],
-          "x": 430.5,
+          "x": 419.5,
           "y": 78.5,
           "width": 36.5,
           "height": 36.5,
@@ -468,9 +469,9 @@
           "type": "key"
         },
         {
-          "id": "{",
-          "labels": ["{", null, null, null, null, null, null, null],
-          "x": 467,
+          "id": "@",
+          "labels": ["@", null, null, null, null, null, null, null],
+          "x": 456,
           "y": 78.5,
           "width": 36.5,
           "height": 36.5,
@@ -479,9 +480,9 @@
           "type": "key"
         },
         {
-          "id": "}",
-          "labels": ["}", null, null, null, null, null, null, null],
-          "x": 503.5,
+          "id": "{",
+          "labels": ["{", null, null, null, null, null, null, null],
+          "x": 492.5,
           "y": 78.5,
           "width": 36.5,
           "height": 36.5,
@@ -490,10 +491,10 @@
           "type": "key"
         },
         {
-          "id": "pagedown",
-          "labels": ["Page\nDown", null, null, null, null, null, null, null],
-          "x": 595,
-          "y": 79.5,
+          "id": "delete",
+          "labels": ["Del", null, null, null, null, null, null, null],
+          "x": 586,
+          "y": 5.5,
           "width": 36.5,
           "height": 36.5,
           "row": 2,
@@ -525,7 +526,7 @@
         {
           "id": "s",
           "labels": ["S", null, null, null, null, null, null, null],
-          "x": 79.5,
+          "x": 80,
           "y": 115,
           "width": 36.5,
           "height": 36.5,
@@ -536,7 +537,7 @@
         {
           "id": "d",
           "labels": ["D", null, null, null, null, null, null, null],
-          "x": 115,
+          "x": 117,
           "y": 115,
           "width": 36.5,
           "height": 36.5,
@@ -547,7 +548,7 @@
         {
           "id": "f",
           "labels": ["F", null, null, null, null, null, null, null],
-          "x": 152.5,
+          "x": 154,
           "y": 115,
           "width": 36.5,
           "height": 36.5,
@@ -558,7 +559,7 @@
         {
           "id": "g",
           "labels": ["G", null, null, null, null, null, null, null],
-          "x": 189,
+          "x": 191,
           "y": 115,
           "width": 37,
           "height": 36.5,
@@ -569,7 +570,7 @@
         {
           "id": "h",
           "labels": ["H", null, null, null, null, null, null, null],
-          "x": 291,
+          "x": 282,
           "y": 115,
           "width": 36.5,
           "height": 36.5,
@@ -580,7 +581,7 @@
         {
           "id": "j",
           "labels": ["J", null, null, null, null, null, null, null],
-          "x": 329,
+          "x": 319,
           "y": 115,
           "width": 36.5,
           "height": 36.5,
@@ -591,7 +592,7 @@
         {
           "id": "k",
           "labels": ["K", null, null, null, null, null, null, null],
-          "x": 366,
+          "x": 356,
           "y": 115,
           "width": 36.5,
           "height": 36.5,
@@ -602,7 +603,7 @@
         {
           "id": "l",
           "labels": ["L", null, null, null, null, null, null, null],
-          "x": 402,
+          "x": 393,
           "y": 115,
           "width": 36.5,
           "height": 36.5,
@@ -611,9 +612,9 @@
           "type": "key"
         },
         {
-          "id": ":",
-          "labels": [":", null, null, null, null, null, null, null],
-          "x": 438,
+          "id": "+",
+          "labels": ["+", null, null, null, null, null, null, null],
+          "x": 430.5,
           "y": 115,
           "width": 36.5,
           "height": 36.5,
@@ -622,9 +623,9 @@
           "type": "key"
         },
         {
-          "id": "@",
-          "labels": ["@", null, null, null, null, null, null, null],
-          "x": 474,
+          "id": "*",
+          "labels": ["*", null, null, null, null, null, null, null],
+          "x": 467.5,
           "y": 115,
           "width": 36.5,
           "height": 36.5,
@@ -633,9 +634,9 @@
           "type": "key"
         },
         {
-          "id": "#",
-          "labels": ["#", null, null, null, null, null, null, null],
-          "x": 511,
+          "id": "}",
+          "labels": ["}", null, null, null, null, null, null, null],
+          "x": 504.5,
           "y": 115,
           "width": 36.5,
           "height": 36.5,
@@ -646,9 +647,9 @@
         {
           "id": "enter",
           "labels": ["Enter", null, null, null, null, null, null, null],
-          "x": 547,
+          "x": 541.5,
           "y": 78.5,
-          "width": 47.5,
+          "width": 44.5,
           "height": 73,
           "row": 3,
           "col": 13,
@@ -659,27 +660,27 @@
           "labels": ["LShift", null, null, null, null, null, null, null],
           "x": -20,
           "y": 152,
-          "width": 45,
+          "width": 76,
           "height": 36.5,
           "row": 4,
           "col": 0,
           "type": "key"
         },
         {
-          "id": "\\",
-          "labels": ["\\", null, null, null, null, null, null, null],
-          "x": 25,
+          "id": "z",
+          "labels": ["Z", null, null, null, null, null, null, null],
+          "x": 56,
           "y": 152,
-          "width": 36.55,
+          "width": 36.5,
           "height": 36.5,
           "row": 4,
           "col": 1,
           "type": "key"
         },
         {
-          "id": "z",
-          "labels": ["Z", null, null, null, null, null, null, null],
-          "x": 62.5,
+          "id": "x",
+          "labels": ["X", null, null, null, null, null, null, null],
+          "x": 92.5,
           "y": 152,
           "width": 36.5,
           "height": 36.5,
@@ -688,9 +689,9 @@
           "type": "key"
         },
         {
-          "id": "x",
-          "labels": ["X", null, null, null, null, null, null, null],
-          "x": 99,
+          "id": "c",
+          "labels": ["C", null, null, null, null, null, null, null],
+          "x": 128,
           "y": 152,
           "width": 36.5,
           "height": 36.5,
@@ -699,9 +700,9 @@
           "type": "key"
         },
         {
-          "id": "c",
-          "labels": ["C", null, null, null, null, null, null, null],
-          "x": 134.5,
+          "id": "v",
+          "labels": ["V", null, null, null, null, null, null, null],
+          "x": 164.5,
           "y": 152,
           "width": 36.5,
           "height": 36.5,
@@ -710,9 +711,9 @@
           "type": "key"
         },
         {
-          "id": "v",
-          "labels": ["V", null, null, null, null, null, null, null],
-          "x": 171,
+          "id": "b",
+          "labels": ["B", null, null, null, null, null, null, null],
+          "x": 201.5,
           "y": 152,
           "width": 36.5,
           "height": 36.5,
@@ -721,9 +722,9 @@
           "type": "key"
         },
         {
-          "id": "b",
-          "labels": ["B", null, null, null, null, null, null, null],
-          "x": 208,
+          "id": "n",
+          "labels": ["N", null, null, null, null, null, null, null],
+          "x": 290,
           "y": 152,
           "width": 36.5,
           "height": 36.5,
@@ -732,9 +733,9 @@
           "type": "key"
         },
         {
-          "id": "n",
-          "labels": ["N", null, null, null, null, null, null, null],
-          "x": 310,
+          "id": "m",
+          "labels": ["M", null, null, null, null, null, null, null],
+          "x": 327,
           "y": 152,
           "width": 36.5,
           "height": 36.5,
@@ -743,9 +744,9 @@
           "type": "key"
         },
         {
-          "id": "m",
-          "labels": ["M", null, null, null, null, null, null, null],
-          "x": 347,
+          "id": "<",
+          "labels": ["<", null, null, null, null, null, null, null],
+          "x": 363.5,
           "y": 152,
           "width": 36.5,
           "height": 36.5,
@@ -754,9 +755,9 @@
           "type": "key"
         },
         {
-          "id": "<",
-          "labels": ["<", null, null, null, null, null, null, null],
-          "x": 383.5,
+          "id": ">",
+          "labels": [">", null, null, null, null, null, null, null],
+          "x": 400,
           "y": 152,
           "width": 36.5,
           "height": 36.5,
@@ -765,9 +766,9 @@
           "type": "key"
         },
         {
-          "id": ">",
-          "labels": [">", null, null, null, null, null, null, null],
-          "x": 420,
+          "id": "?",
+          "labels": ["?", null, null, null, null, null, null, null],
+          "x": 437.5,
           "y": 152,
           "width": 36.5,
           "height": 36.5,
@@ -776,9 +777,9 @@
           "type": "key"
         },
         {
-          "id": "?",
-          "labels": ["?", null, null, null, null, null, null, null],
-          "x": 457.5,
+          "id": "-",
+          "labels": ["-", null, null, null, null, null, null, null],
+          "x": 475,
           "y": 152,
           "width": 36.5,
           "height": 36.5,
@@ -789,9 +790,9 @@
         {
           "id": "rshift",
           "labels": ["RShift", null, null, null, null, null, null, null],
-          "x": 494,
+          "x": 512,
           "y": 152,
-          "width": 66,
+          "width": 36.5,
           "height": 36.5,
           "row": 4,
           "col": 12,
@@ -800,23 +801,12 @@
         {
           "id": "up",
           "labels": ["Up", null, null, null, null, null, null, null],
-          "x": 560,
+          "x": 548.5,
           "y": 152,
           "width": 36.5,
           "height": 36.5,
           "row": 4,
           "col": 13,
-          "type": "key"
-        },
-        {
-          "id": "delete",
-          "labels": ["Del", null, null, null, null, null, null, null],
-          "x": 596,
-          "y": 5.5,
-          "width": 36.5,
-          "height": 36.5,
-          "row": 4,
-          "col": 14,
           "type": "key"
         },
         {
@@ -844,7 +834,7 @@
         {
           "id": "lalt",
           "labels": ["LAlt", null, null, null, null, null, null, null],
-          "x": 70.5,
+          "x": 71,
           "y": 188,
           "width": 45,
           "height": 36.5,
@@ -855,9 +845,9 @@
         {
           "id": "lwin",
           "labels": ["LWin", null, null, null, null, null, null, null],
-          "x": 115,
+          "x": 117,
           "y": 188,
-          "width": 47.5,
+          "width": 36.5,
           "height": 36.5,
           "row": 5,
           "col": 3,
@@ -866,7 +856,7 @@
         {
           "id": "lspace",
           "labels": ["Space", null, null, null, null, null, null, null],
-          "x": 162.5,
+          "x": 154,
           "y": 188,
           "width": 82,
           "height": 36.5,
@@ -877,18 +867,18 @@
         {
           "id": "rspace",
           "labels": ["Space", null, null, null, null, null, null, null],
-          "x": 310,
+          "x": 290,
           "y": 189,
-          "width": 101,
+          "width": 76,
           "height": 36.5,
           "row": 5,
           "col": 5,
           "type": "key"
         },
         {
-          "id": "rwin",
-          "labels": ["RWin", null, null, null, null, null, null, null],
-          "x": 410,
+          "id": "menu",
+          "labels": ["Menu", null, null, null, null, null, null, null],
+          "x": 366.5,
           "y": 189,
           "width": 36.5,
           "height": 36.5,
@@ -897,9 +887,9 @@
           "type": "key"
         },
         {
-          "id": "rfn",
-          "labels": ["RFn", null, null, null, null, null, null, null],
-          "x": 446.5,
+          "id": "rwin",
+          "labels": ["RWin", null, null, null, null, null, null, null],
+          "x": 403.5,
           "y": 189,
           "width": 36.5,
           "height": 36.5,
@@ -908,9 +898,9 @@
           "type": "key"
         },
         {
-          "id": "ralt",
-          "labels": ["RAlt", null, null, null, null, null, null, null],
-          "x": 483,
+          "id": "rfn",
+          "labels": ["RFn", null, null, null, null, null, null, null],
+          "x": 440,
           "y": 189,
           "width": 36.5,
           "height": 36.5,
@@ -919,9 +909,9 @@
           "type": "key"
         },
         {
-          "id": "left",
-          "labels": ["Left", null, null, null, null, null, null, null],
-          "x": 520,
+          "id": "ralt",
+          "labels": ["RAlt", null, null, null, null, null, null, null],
+          "x": 476.5,
           "y": 189,
           "width": 36.5,
           "height": 36.5,
@@ -930,9 +920,9 @@
           "type": "key"
         },
         {
-          "id": "down",
-          "labels": ["Down", null, null, null, null, null, null, null],
-          "x": 558,
+          "id": "left",
+          "labels": ["Left", null, null, null, null, null, null, null],
+          "x": 513.5,
           "y": 189,
           "width": 36.5,
           "height": 36.5,
@@ -941,14 +931,25 @@
           "type": "key"
         },
         {
-          "id": "right",
-          "labels": ["Right", null, null, null, null, null, null, null],
-          "x": 595.5,
+          "id": "down",
+          "labels": ["Down", null, null, null, null, null, null, null],
+          "x": 550,
           "y": 189,
           "width": 36.5,
           "height": 36.5,
           "row": 5,
           "col": 11,
+          "type": "key"
+        },
+        {
+          "id": "right",
+          "labels": ["Right", null, null, null, null, null, null, null],
+          "x": 586.5,
+          "y": 189,
+          "width": 36.5,
+          "height": 36.5,
+          "row": 5,
+          "col": 12,
           "type": "key"
         }
       ]
@@ -1100,7 +1101,7 @@
           "width": 36.5,
           "height": 36.5,
           "row": 3,
-          "col": 14,
+          "col": 15,
           "type": "key"
         },
         {
@@ -1111,7 +1112,7 @@
           "width": 36.5,
           "height": 36.5,
           "row": 3,
-          "col": 15,
+          "col": 16,
           "type": "key"
         },
         {
@@ -1122,7 +1123,7 @@
           "width": 36.5,
           "height": 36.5,
           "row": 3,
-          "col": 16,
+          "col": 17,
           "type": "key"
         },
         {
@@ -1133,7 +1134,7 @@
           "width": 36.5,
           "height": 36.5,
           "row": 4,
-          "col": 15,
+          "col": 14,
           "type": "key"
         },
         {
@@ -1144,7 +1145,7 @@
           "width": 36.5,
           "height": 36.5,
           "row": 4,
-          "col": 16,
+          "col": 15,
           "type": "key"
         },
         {
@@ -1155,7 +1156,7 @@
           "width": 36.5,
           "height": 36.5,
           "row": 4,
-          "col": 17,
+          "col": 16,
           "type": "key"
         },
         {
@@ -1166,7 +1167,7 @@
           "width": 36.5,
           "height": 73,
           "row": 4,
-          "col": 18,
+          "col": 17,
           "type": "key"
         },
         {
@@ -1177,7 +1178,7 @@
           "width": 73,
           "height": 36.5,
           "row": 5,
-          "col": 12,
+          "col": 13,
           "type": "key"
         },
         {
@@ -1188,7 +1189,7 @@
           "width": 36.5,
           "height": 36.5,
           "row": 5,
-          "col": 13,
+          "col": 14,
           "type": "key"
         }
       ]
