@@ -1,12 +1,13 @@
 {
   "name": "NocFree &",
+  "layoutName": "kr",
   "vendor": "NocFree",
   "product": "NocFree & KR",
   "image": "keyboards/and-kr.png",
   "width": 900,
   "height": 400,
   "rows": 7,
-  "cols": 20,
+  "cols": 21,
   "layers": 8,
   "layouts": {
     "default": {

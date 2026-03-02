@@ -1,12 +1,13 @@
 {
   "name": "NocFree &",
+  "layoutName": "uk",
   "vendor": "NocFree",
   "product": "NocFree & UK",
   "image": "keyboards/and-uk.png",
   "width": 900,
   "height": 400,
   "rows": 6,
-  "cols": 19,
+  "cols": 21,
   "layers": 8,
   "layouts": {
     "default": {
