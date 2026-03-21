@@ -1,0 +1,74 @@
+{
+  "latestVersion": "1.4.16",
+  "releaseTitle": "NocFree Keyboard Firmware",
+  "downloads": [
+    {
+      "id": "left",
+      "label": "Left Keyboard",
+      "version": "1.4.15",
+      "url": "/firmware/nocfree-left-ansi-v1.4.15.uf2",
+      "region": "ansi",
+      "regionLabel": "ANSI",
+      "notes": "Use this package for ANSI left keyboards."
+    },
+    {
+      "id": "left",
+      "label": "Left Keyboard",
+      "version": "1.4.15",
+      "url": "/firmware/nocfree-left-kr-v1.4.15.uf2",
+      "region": "kr",
+      "regionLabel": "KR",
+      "notes": "Use this package for KR left keyboards."
+    },
+    {
+      "id": "left",
+      "label": "Left Keyboard",
+      "version": "1.4.15",
+      "url": "/firmware/nocfree-left-jp-v1.4.15.uf2",
+      "region": "jp",
+      "regionLabel": "JP",
+      "notes": "Use this package for JP left keyboards."
+    },
+    {
+      "id": "left",
+      "label": "Left Keyboard",
+      "version": "1.4.15",
+      "url": "/firmware/nocfree-left-uk-v1.4.15.uf2",
+      "region": "uk",
+      "regionLabel": "UK",
+      "notes": "Use this package for UK left keyboards."
+    },
+    {
+      "id": "right",
+      "label": "Right Keyboard",
+      "version": "1.4.15",
+      "url": "/firmware/nocfree-right-v1.4.15.uf2",
+      "notes": "Use this package when updating the right half only."
+    },
+    {
+      "id": "numpad",
+      "label": "Numpad",
+      "version": "1.4.15",
+      "url": "/firmware/nocfree-numpad-v1.4.15.uf2",
+      "notes": "Use this package when updating the numpad module."
+    }
+  ],
+  "dfuGuide": [
+    {
+      "title": "Hold Fn + 5 for 5 seconds",
+      "detail": "Press and hold Fn + number 5 for about 5 seconds. The keyboard will disconnect automatically after it enters DFU mode."
+    },
+    {
+      "title": "Open the DFU folder",
+      "detail": "On macOS, open Finder and look for the 'Nocfree &' disk. On Windows, the folder may open automatically after the device disconnects and reconnects."
+    },
+    {
+      "title": "Drag the downloaded file into the folder",
+      "detail": "Download the firmware that matches your current keyboard country layout, then drag that file into the opened DFU folder to start the update."
+    },
+    {
+      "title": "Reconnect after the update",
+      "detail": "After the firmware update finishes, reconnect the keyboard and it will be ready to use again."
+    }
+  ]
+}
