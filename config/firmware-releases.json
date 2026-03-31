@@ -1,12 +1,12 @@
 {
-  "latestVersion": "1.4.16",
+  "latestVersion": "1.5.2",
   "releaseTitle": "NocFree Keyboard Firmware",
   "downloads": [
     {
       "id": "left",
       "label": "Left Keyboard",
-      "version": "1.4.15",
-      "url": "/firmware/nocfree-left-ansi-v1.4.15.uf2",
+      "version": "1.5.2",
+      "url": "/firmware/nocfree-left-ansi-v1.5.2.uf2",
       "region": "ansi",
       "regionLabel": "ANSI",
       "notes": "Use this package for ANSI left keyboards."
@@ -14,8 +14,8 @@
     {
       "id": "left",
       "label": "Left Keyboard",
-      "version": "1.4.15",
-      "url": "/firmware/nocfree-left-kr-v1.4.15.uf2",
+      "version": "1.5.2",
+      "url": "/firmware/nocfree-left-kr-v1.5.2.uf2",
       "region": "kr",
       "regionLabel": "KR",
       "notes": "Use this package for KR left keyboards."
@@ -23,8 +23,8 @@
     {
       "id": "left",
       "label": "Left Keyboard",
-      "version": "1.4.15",
-      "url": "/firmware/nocfree-left-jp-v1.4.15.uf2",
+      "version": "1.5.2",
+      "url": "/firmware/nocfree-left-jp-v1.5.2.uf2",
       "region": "jp",
       "regionLabel": "JP",
       "notes": "Use this package for JP left keyboards."
@@ -32,8 +32,8 @@
     {
       "id": "left",
       "label": "Left Keyboard",
-      "version": "1.4.15",
-      "url": "/firmware/nocfree-left-uk-v1.4.15.uf2",
+      "version": "1.5.2",
+      "url": "/firmware/nocfree-left-uk-v1.5.2.uf2",
       "region": "uk",
       "regionLabel": "UK",
       "notes": "Use this package for UK left keyboards."
@@ -41,15 +41,15 @@
     {
       "id": "right",
       "label": "Right Keyboard",
-      "version": "1.4.15",
-      "url": "/firmware/nocfree-right-v1.4.15.uf2",
+      "version": "1.5.2",
+      "url": "/firmware/nocfree-right-v1.5.2.uf2",
       "notes": "Use this package when updating the right half only."
     },
     {
       "id": "numpad",
       "label": "Numpad",
-      "version": "1.4.15",
-      "url": "/firmware/nocfree-numpad-v1.4.15.uf2",
+      "version": "1.5.2",
+      "url": "/firmware/nocfree-numpad-v1.5.2.uf2",
       "notes": "Use this package when updating the numpad module."
     }
   ],
